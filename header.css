@@ -1,10 +1,12 @@
 .cabeçalho__menu-hamburguer {
     width: 24px;
     height: 24px;
-    background-image: url("../img/Usuario.png");
+    background-image: url("../moblie-first-main/Menu.svg");
     display:inline-block;
 }
-.Compras.png{
-    width: 24px;
-    height: 24px;
+
+.cabeçalho{
+    background-color: var(--branco);
+    display: flex;
+    justify-content: space-between;
 }
